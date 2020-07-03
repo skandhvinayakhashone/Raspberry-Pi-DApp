@@ -6,3 +6,7 @@ A Static Decentralised File uploading application running on a Raspberry Pi Netw
 3. Set CalcDifficulty function to 1, in the consensus.go file of Ethereum
 4. Initialize IPFS daemon in the crontab, such that it can automatically start the peer on boot.
 5. Upload the src folder and contracts to IPFS
+
+Published paper DOI : 10.36548/jitdw.2020.1.003
+
+Link : https://www.irojournals.com/itdw/V2/I1/03.pdf
