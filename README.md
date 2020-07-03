@@ -1,5 +1,5 @@
 # Raspberry-Pi-DApp
-A Static Decentralised application running on a Raspberry Pi Network
+A Static Decentralised File uploading application running on a Raspberry Pi Network
 
 1. Intialized IPFS nodes
 2. Edit IPFS config file with their peer Identifications
